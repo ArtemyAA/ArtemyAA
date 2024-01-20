@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artemy and I`m learning on [Hexlet](https://ru.hexlet.io/programs/python) for Python backend developer!
+👋 Hi, I’m Artemy and I`m learning on [Hexlet](https://ru.hexlet.io/programs/python) for ***Python backend developer***!
 
 ![Build Status](https://www.codewars.com/users/ArtemyAA/badges/small)
 <!---
