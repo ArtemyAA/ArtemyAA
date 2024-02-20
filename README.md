@@ -22,7 +22,7 @@
 [<img src="https://cdn.simpleicons.org/habr" height="42" width="42">](https://career.habr.com/artemyaa)
 [<img src="https://cdn.simpleicons.org/linkedin" height="42" width="42">](https://www.linkedin.com/in/artemy-ablaev-639a0523b/)
 
-### 🧠 In my free time, I like to solve various types of tasks:
+### 🧠 In my free time, I like to solve various types of tasks on 
 
 ![Build Status](https://www.codewars.com/users/ArtemyAA/badges/small)
 [<img src="https://cdn.simpleicons.org/leetcode" title="leetcode" alt="leetcode" height="42" width="42" style="pointer-events: none;">](#)
