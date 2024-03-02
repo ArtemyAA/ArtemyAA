@@ -1,5 +1,4 @@
-<h2 align="center"> 
-  <img src="https://i.pinimg.com/originals/7c/9b/4b/7c9b4b6ff870e8c8a338a2c9e215622a.gif" alt="Hi" height=170 width=190/></h2>
+<h3 align="center"><img src="https://i.pinimg.com/originals/7c/9b/4b/7c9b4b6ff870e8c8a338a2c9e215622a.gif" alt="Hi" height=170 width=190/></h3>
 <h3>My name is Artemy and I have been studying since 2023 on <a href="https://ru.hexlet.io/u/artemy_ablaev" target="_blank">Hexlet</a>
 for Python backend developer! <br>Currently, I am looking for job opportunities within the IT industry, either as an intern or as a junior Python developer.</h3>
 <h4>My CV in <a href="https://www.linkedin.com/in/artemy-ablaev-639a0523b/" target="_blank">English</a> / <a href="https://cv.hexlet.io/ru/resumes/3581" target="_blank">Russian</a></h4>
