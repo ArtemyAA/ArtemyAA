@@ -13,6 +13,7 @@ for Python backend developer! <br>Currently, I am looking for job opportunities 
 [<img src="https://cdn.simpleicons.org/make" title="make" alt="make" height="42" width="42" style="pointer-events: none;">](#)
 [<img src="https://cdn.simpleicons.org/pytest" title="pytest" alt="pytest" height="42" width="42" style="pointer-events: none;">](#)
 [<img src="https://cdn.simpleicons.org/html5" title="html" alt="html" height="42" width="42" style="pointer-events: none;">](#)
+[<img src="https://cdn.simpleicons.org/css3" title="css" alt="css" height="42" width="42" style="pointer-events: none;">](#)
 
 ### 📬 Contact me by:
 [<img src="https://cdn.simpleicons.org/gmail" height="42" width="42">](artemyablaev@gmail.com)
