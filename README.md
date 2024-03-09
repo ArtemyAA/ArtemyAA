@@ -23,7 +23,7 @@ for Python backend developer! <br>Currently, I am looking for job opportunities 
 
 ### 🧠 In my free time, I like to solve various types of tasks
 
-![Build Status](https://www.codewars.com/users/ArtemyAA/badges/small)
+![Build Status](https://www.codewars.com/users/ArtemyAA/badges/large)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ArtemyAA)
 
