@@ -16,7 +16,7 @@ for Python backend developer! <br>Currently, I am looking for job opportunities 
 [<img src="https://cdn.simpleicons.org/css3" title="css" alt="css" height="42" width="42" style="pointer-events: none;">](#)
 
 ### 📬 Contact me by:
-[<img src="https://cdn.simpleicons.org/gmail" height="42" width="42">](artemyablaev@gmail.com)
+[<img src="https://cdn.simpleicons.org/gmail" height="42" width="42">](mailto:artemyablaev@gmail.com)
 [<img src="https://cdn.simpleicons.org/telegram" height="42" width="42">](https://t.me/artemyablaev)
 [<img src="https://cdn.simpleicons.org/habr" height="42" width="42">](https://career.habr.com/artemyaa)
 [<img src="https://cdn.simpleicons.org/linkedin" height="42" width="42">](https://www.linkedin.com/in/artemy-ablaev-639a0523b/)
