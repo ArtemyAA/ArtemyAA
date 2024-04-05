@@ -6,6 +6,7 @@ for Python backend developer! <br>Currently, I am looking for job opportunities 
 ### 💻 Languages and Tools:
 [<img src="https://cdn.simpleicons.org/python" title="python" alt="python" height="42" width="42" style="pointer-events: none;">](#)
 [<img src="https://cdn.simpleicons.org/postgresql" title="postgresql" alt="postgresql" height="42" width="42" style="pointer-events: none;">](#)
+[<img src="https://cdn.simpleicons.org/flask" title="flask" alt="flask" height="42" width="42" style="pointer-events: none;">](#)
 [<img src="https://cdn.simpleicons.org/linux" title="linux" alt="linux" height="42" width="42" style="pointer-events: none;">](#)
 [<img src="https://cdn.simpleicons.org/ubuntu" title="ubuntu" alt="ubuntu" height="42" width="42" style="pointer-events: none;">](#)
 [<img src="https://cdn.simpleicons.org/git" title="git" alt="git" height="42" width="42" style="pointer-events: none;">](#)
